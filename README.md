@@ -1,7 +1,7 @@
 # Leonardo_Patricelli_Portfolio
 
 
-# MOVIE RECOMMENDATION ENGINE SYSTEM BASED ON EMOTIONS
+# Project 1: Movie recommendation engine system based on emotions
 Final Capstone Project in collaboration with MAGID ( https://magid.com/ )
 
 As project leader of a team of 4, I led the development of new film genres and a movie recommendation app based on emotions. Using original survey data collected by MAGID on the emotional responses of respondents after watching a movie and other demographic data, we achieved over 80% of accuracy on the XGBoost model and various exciting insights.
