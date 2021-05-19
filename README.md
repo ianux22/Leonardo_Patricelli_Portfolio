@@ -42,7 +42,8 @@ This project analyzes all bicycle theft occurrences reported to the Toronto Poli
 -	Thefts’ prediction for summer 2019 using an XGBoost algorithm.
 
 ## *Project 5: Customer segmentation and classification with unbalanced data*
-*Report done in college for the course **business, web and social media metrics and analysis**, based on the case study from the book **Data mining for business analytics: concepts, Techniques and Applications in Python**
+*Report done in college for the course **business, web and social media metrics and analysis**, based on the case study from the book **Data mining for business analytics: concepts, Techniques and Applications in Python***
+
 In this case study my group was asked to run a customer segmentation on transaction data and then retrieve the cluster containing people who stick with their favorite brand and don’t churn.
 I was responsible for the whole code and analysis. In the end, We managed to build 7 clusters using different metrics and a logit model able to reach 86% of precision using unbalanced data. The project involved: 
 -	Data cleaning and feature engineering to create new useful metrics;
@@ -51,4 +52,10 @@ I was responsible for the whole code and analysis. In the end, We managed to bui
 -	Find the cluster containing “loyal” customers, then creation, optimization and comparison of a Logit model and a Tree classifier to predict those customers using an unbalanced dataset (with ratio 88:12); in the end, the logit model outclass the tree classifier;
 
 ## *Project 6: Market Basket Analysis using Association Rules*
-*Report done in college for the course **business, web and social media metrics and analysis**, based on the case study from the book **Data mining for business analytics: concepts, Techniques and Applications in Python**
+*Report done in college for the course **business, web and social media metrics and analysis**, based on the case study from the book **Data mining for business analytics: concepts, Techniques and Applications in Python***
+
+In this project my group was asked to run a market basket analysis via association rules on transaction data to analyze the sellings and to introduce a cross-selling strategy to improve the revenue. The steps involved were: 
+-	Data cleaning and data exploration;
+-	Association rules using the python library mlxtend
+-	Analyze the rules obtained looking at metrics like confidence, lift and support;
+
