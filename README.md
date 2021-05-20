@@ -1,7 +1,7 @@
 # Leonardo Patricelli Data Science Portfolio
 
 ## *Project 1: Movie recommendation engine system based on emotions*
-*Final Capstone Project in collaboration with [MAGID]( https://magid.com/ )* 
+*Final Capstone Project for Analytics for business decision making course,  in collaboration with [MAGID]( https://magid.com/ )* 
 
 *[Click here to read the PDF presenation (with censor)]( https://github.com/ianux22/RECOMMENDATION-ENGINE-SYSTEM-BASED-ON-EMOTIONS/blob/master/Capstone_Prezo.pdf )* 
 
