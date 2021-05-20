@@ -26,20 +26,7 @@ I created a model to predict the outcome of a match using metrics related to a t
 - Building adjacency matrices for each team and metrics related to network and playstyle implemented in several papers of statistics and sport;
 - Developing and tuning several machine learning algorithms in the R programming language to predict the outcome of a match. The best one was a SVM model.
 
-## *Project 3: Insights on ALS and other rare diseases through open data*
-*Project for Hackathon 2021 at Seneca College, in collaboration with [Orphadata](http://www.orphadata.org/cgi-bin/index.php)*
-
-*[Click here to read the PDF presenation]( https://github.com/ianux22/Hackathon_Seneca_2021/blob/main/Obtaining%20insights%20on%20ALS%20and%20other%20rare%20diseases%20through%20Open%20data.pdf )* 
-
-*[Click here to go to the repository and read more details]( https://github.com/ianux22/Hackathon_Seneca_2021  )* 
-
-Orphadata provides the scientific community with data about rare diseases. In this challenge, we had to retrieve data about rare diseases to gain insights and develop an application to assist doctors and researchers with diagnosing rare diseases. The challenge involved:
-
-- Massive data Cleaning and extraction from XML file; 
-- Data Analysis using Python programming language; 
-- Creation of an application to run the analysis.
-
-## *Project 4: Predictive models for Torino’s museums subscription churn rate*
+## *Project 3: Predictive models for Torino’s museums subscription churn rate*
 *Project done for the business analytics course during my master’s degree at the University of Turin*
 
 *[Click here to read the PDF Report for more details]( https://github.com/ianux22/Torino_museums_subscriptions/blob/main/Patricelli_Previous_Work.pdf )* 
@@ -53,6 +40,20 @@ This project was about predicting and analyzing the customers who renew the subs
 -	Customer segmentation via self-organizing maps;
 -	Logistic regression to analyze the features with the highest impact on the probability to churn;
 -	Creation and comparison of several models to predict renewals and expected profit. At the end a Random Forest model was chosen.
+
+
+## *Project 4: Insights on ALS and other rare diseases through open data*
+*Project for Hackathon 2021 at Seneca College, in collaboration with [Orphadata](http://www.orphadata.org/cgi-bin/index.php)*
+
+*[Click here to read the PDF presenation]( https://github.com/ianux22/Hackathon_Seneca_2021/blob/main/Obtaining%20insights%20on%20ALS%20and%20other%20rare%20diseases%20through%20Open%20data.pdf )* 
+
+*[Click here to go to the repository and read more details]( https://github.com/ianux22/Hackathon_Seneca_2021  )* 
+
+Orphadata provides the scientific community with data about rare diseases. In this challenge, we had to retrieve data about rare diseases to gain insights and develop an application to assist doctors and researchers with diagnosing rare diseases. The challenge involved:
+
+- Massive data Cleaning and extraction from XML file; 
+- Data Analysis using Python programming language; 
+- Creation of an application to run the analysis.
 
 ## *Project 5: Report on Toronto bicycles' thefts*
 *Report done for the blog [The Pizza Statistician](https://ianux22.wixsite.com/thepizzastatistician) with data from the [city of Toronto open data portal](https://open.toronto.ca/dataset/bicycle-thefts/)*
