@@ -4,6 +4,7 @@
 *Final Capstone Project in collaboration with [MAGID]( https://magid.com/ )* 
 
 *[Click here to read the PDF presenation (with censor)]( https://github.com/ianux22/RECOMMENDATION-ENGINE-SYSTEM-BASED-ON-EMOTIONS/blob/master/Capstone_Prezo.pdf )* 
+
 *[Click here to go to the repository and read more details)]( https://github.com/ianux22/RECOMMENDATION-ENGINE-SYSTEM-BASED-ON-EMOTIONS/tree/master  )* 
 
 As project leader of a team of 4, I led the development of new film genres and a movie recommendation app based on emotions. Using original survey data collected by MAGID on the emotional responses of respondents after watching a movie and other demographic data, we achieved over 80% of accuracy on the XGBoost model and various exciting insights.
@@ -29,6 +30,7 @@ I created a model to predict the outcome of a match using metrics related to a t
 *Project for Hackathon 2021 at Seneca College, in collaboration with [Orphadata](http://www.orphadata.org/cgi-bin/index.php)*
 
 *[Click here to read the PDF presenation)]( https://github.com/ianux22/Hackathon_Seneca_2021/blob/main/Obtaining%20insights%20on%20ALS%20and%20other%20rare%20diseases%20through%20Open%20data.pdf )* 
+
 *[Click here to go to the repository and read more details)]( https://github.com/ianux22/Hackathon_Seneca_2021  )* 
 
 Orphadata provides the scientific community with data about rare diseases. In this challenge, we had to retrieve data about rare diseases to gain insights and develop an application to assist doctors and researchers with diagnosing rare diseases. The challenge involved:
@@ -41,6 +43,7 @@ Orphadata provides the scientific community with data about rare diseases. In th
 *Project done for the business analytics course during my master’s degree at the University of Turin*
 
 *[Click here to read the PDF Report for more details)]( https://github.com/ianux22/Torino_museums_subscriptions/blob/main/Patricelli_Previous_Work.pdf )* 
+
 *[Click here to go to the repository and see the R code)]( https://github.com/ianux22/Torino_museums_subscriptions  )* 
 
 This project was about predicting and analyzing the customers who renew the subscription of Piemonte’s museums (and who doesn’t), using the 2014 data to predict the 2015 renewals using the R programming language. In the end, I created a Random Forest model able to predict correctly almost 75% of the renewals. The project included: 
@@ -55,6 +58,7 @@ This project was about predicting and analyzing the customers who renew the subs
 *Report done for the blog [The Pizza Statistician](https://ianux22.wixsite.com/thepizzastatistician) with data from the [city of Toronto open data portal](https://open.toronto.ca/dataset/bicycle-thefts/)*
 
 *[Click here to read the Report for more details)]( https://ianux22.wixsite.com/thepizzastatistician/post/study-on-toronto-s-bicycle-thefts )* 
+
 *[Click here to go to the repository and see the R code)]( https://github.com/ianux22/Toronto_Bike_Thefts  )* 
 
 This project analyzes all bicycle theft occurrences reported to the Toronto Police Service from 2014 to 2019 using the R programming language. As expected, most of thefts happen to be in the evening of summer months. The project involved: 
@@ -67,7 +71,8 @@ This project analyzes all bicycle theft occurrences reported to the Toronto Poli
 ## *Project 6: Customer segmentation and classification with unbalanced data*
 *Report done in college for the course **business, web and social media metrics and analysis**, based on the case study from the book **Data mining for business analytics: concepts, Techniques and Applications in Python***
 
-*[Click here to read the PDF presentation)]( https://github.com/ianux22/Case_Study_GeorgeBrown/blob/main/03_CaseStudy_Logit_with_Unbalanced_Data/CaseStudy03_Presentation.pdf )* 
+*[Click here to read the PDF presentation)]( https://github.com/ianux22/Case_Study_GeorgeBrown/blob/main/03_CaseStudy_Logit_with_Unbalanced_Data/CaseStudy03_Presentation.pdf )*
+
 *[Click here to go to the repository for more details)]( https://github.com/ianux22/Case_Study_GeorgeBrown/tree/main/03_CaseStudy_Logit_with_Unbalanced_Data  )* 
 
 In this case study my group was asked to run a customer segmentation on transaction data and then retrieve the cluster containing people who stick with their favorite brand and don’t churn.
@@ -81,6 +86,7 @@ I was responsible for the whole code and analysis. In the end, We managed to bui
 *Report done in college for the course **business, web and social media metrics and analysis**, based on the case study from the book **Data mining for business analytics: concepts, Techniques and Applications in Python***
 
 *[Click here to read the PDF presentation)]( https://github.com/ianux22/Case_Study_GeorgeBrown/blob/main/02_CaseStudy_MarketBasketAnalysis/CaseStudy02_Presentation.pdf )* 
+
 *[Click here to go to the repository for more details)]( https://github.com/ianux22/Case_Study_GeorgeBrown/tree/main/02_CaseStudy_MarketBasketAnalysis  )* 
 
 In this project my group was asked to run a market basket analysis via association rules on transaction data to analyze the sellings and to introduce a cross-selling strategy to improve the revenue. The steps involved were: 
