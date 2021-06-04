@@ -55,8 +55,10 @@ Orphadata provides the scientific community with data about rare diseases. In th
 - Data Analysis using Python programming language; 
 - Creation of an application to run the analysis.
 
-## *Project 5: Report on Toronto bicycles' thefts*
+## *Project 5: Report on Toronto bicycles' thefts + Tableau Dashboard*
 *Report done for the blog [The Pizza Statistician](https://ianux22.wixsite.com/thepizzastatistician) with data from the [city of Toronto open data portal](https://open.toronto.ca/dataset/bicycle-thefts/)*
+
+*[Click here to download the Tableau Dashboard]( https://github.com/ianux22/Toronto_Bike_Thefts/tree/main/Tableau%20Dashboard )* 
 
 *[Click here to read the Report for more details]( https://ianux22.wixsite.com/thepizzastatistician/post/study-on-toronto-s-bicycle-thefts )* 
 
